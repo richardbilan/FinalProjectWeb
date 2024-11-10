@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\Richard Bilan\Documents\GitHub\WebDevFinalProj\resources\views/aboutus.blade.php ENDPATH**/ ?>

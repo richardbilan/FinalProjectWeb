@@ -1928,6 +1928,7 @@
         },
         {
             "name": "nesbot/carbon",
+<<<<<<< HEAD
             "version": "3.8.2",
             "source": {
                 "type": "git",
@@ -1938,6 +1939,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/e1268cdbc486d97ce23fef2c666dc3c6b6de9947",
                 "reference": "e1268cdbc486d97ce23fef2c666dc3c6b6de9947",
+=======
+            "version": "3.8.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/briannesbitt/Carbon.git",
+                "reference": "10ac0aa86b8062219ce21e8189123d611ca3ecd9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/10ac0aa86b8062219ce21e8189123d611ca3ecd9",
+                "reference": "10ac0aa86b8062219ce21e8189123d611ca3ecd9",
+>>>>>>> 83fa77939eca3119b5afe58311596bfd9846ada8
                 "shasum": ""
             },
             "require": {
@@ -2030,7 +2043,11 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2024-11-07T17:46:48+00:00"
+=======
+            "time": "2024-11-03T16:02:24+00:00"
+>>>>>>> 83fa77939eca3119b5afe58311596bfd9846ada8
         },
         {
             "name": "nette/schema",
@@ -5755,6 +5772,7 @@
         },
         {
             "name": "fakerphp/faker",
+<<<<<<< HEAD
             "version": "v1.24.0",
             "source": {
                 "type": "git",
@@ -5765,6 +5783,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/FakerPHP/Faker/zipball/a136842a532bac9ecd8a1c723852b09915d7db50",
                 "reference": "a136842a532bac9ecd8a1c723852b09915d7db50",
+=======
+            "version": "v1.23.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/FakerPHP/Faker.git",
+                "reference": "bfb4fe148adbf78eff521199619b93a52ae3554b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/FakerPHP/Faker/zipball/bfb4fe148adbf78eff521199619b93a52ae3554b",
+                "reference": "bfb4fe148adbf78eff521199619b93a52ae3554b",
+>>>>>>> 83fa77939eca3119b5afe58311596bfd9846ada8
                 "shasum": ""
             },
             "require": {
@@ -5812,9 +5842,15 @@
             ],
             "support": {
                 "issues": "https://github.com/FakerPHP/Faker/issues",
+<<<<<<< HEAD
                 "source": "https://github.com/FakerPHP/Faker/tree/v1.24.0"
             },
             "time": "2024-11-07T15:11:20+00:00"
+=======
+                "source": "https://github.com/FakerPHP/Faker/tree/v1.23.1"
+            },
+            "time": "2024-01-02T13:46:09+00:00"
+>>>>>>> 83fa77939eca3119b5afe58311596bfd9846ada8
         },
         {
             "name": "fidry/cpu-core-counter",
@@ -6349,6 +6385,7 @@
         },
         {
             "name": "myclabs/deep-copy",
+<<<<<<< HEAD
             "version": "1.12.1",
             "source": {
                 "type": "git",
@@ -6359,6 +6396,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/myclabs/DeepCopy/zipball/123267b2c49fbf30d78a7b2d333f6be754b94845",
                 "reference": "123267b2c49fbf30d78a7b2d333f6be754b94845",
+=======
+            "version": "1.12.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/myclabs/DeepCopy.git",
+                "reference": "3a6b9a42cd8f8771bd4295d13e1423fa7f3d942c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/myclabs/DeepCopy/zipball/3a6b9a42cd8f8771bd4295d13e1423fa7f3d942c",
+                "reference": "3a6b9a42cd8f8771bd4295d13e1423fa7f3d942c",
+>>>>>>> 83fa77939eca3119b5afe58311596bfd9846ada8
                 "shasum": ""
             },
             "require": {
@@ -6397,7 +6446,11 @@
             ],
             "support": {
                 "issues": "https://github.com/myclabs/DeepCopy/issues",
+<<<<<<< HEAD
                 "source": "https://github.com/myclabs/DeepCopy/tree/1.12.1"
+=======
+                "source": "https://github.com/myclabs/DeepCopy/tree/1.12.0"
+>>>>>>> 83fa77939eca3119b5afe58311596bfd9846ada8
             },
             "funding": [
                 {
@@ -6405,7 +6458,11 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2024-11-08T17:47:46+00:00"
+=======
+            "time": "2024-06-12T14:39:25+00:00"
+>>>>>>> 83fa77939eca3119b5afe58311596bfd9846ada8
         },
         {
             "name": "nunomaduro/collision",
@@ -7139,6 +7196,7 @@
         },
         {
             "name": "phpdocumentor/type-resolver",
+<<<<<<< HEAD
             "version": "1.10.0",
             "source": {
                 "type": "git",
@@ -7149,13 +7207,29 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/phpDocumentor/TypeResolver/zipball/679e3ce485b99e84c775d28e2e96fade9a7fb50a",
                 "reference": "679e3ce485b99e84c775d28e2e96fade9a7fb50a",
+=======
+            "version": "1.9.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phpDocumentor/TypeResolver.git",
+                "reference": "1fb5ba8d045f5dd984ebded5b1cc66f29459422d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phpDocumentor/TypeResolver/zipball/1fb5ba8d045f5dd984ebded5b1cc66f29459422d",
+                "reference": "1fb5ba8d045f5dd984ebded5b1cc66f29459422d",
+>>>>>>> 83fa77939eca3119b5afe58311596bfd9846ada8
                 "shasum": ""
             },
             "require": {
                 "doctrine/deprecations": "^1.0",
                 "php": "^7.3 || ^8.0",
                 "phpdocumentor/reflection-common": "^2.0",
+<<<<<<< HEAD
                 "phpstan/phpdoc-parser": "^1.18|^2.0"
+=======
+                "phpstan/phpdoc-parser": "^1.18"
+>>>>>>> 83fa77939eca3119b5afe58311596bfd9846ada8
             },
             "require-dev": {
                 "ext-tokenizer": "*",
@@ -7191,9 +7265,15 @@
             "description": "A PSR-5 based resolver of Class names, Types and Structural Element Names",
             "support": {
                 "issues": "https://github.com/phpDocumentor/TypeResolver/issues",
+<<<<<<< HEAD
                 "source": "https://github.com/phpDocumentor/TypeResolver/tree/1.10.0"
             },
             "time": "2024-11-09T15:12:26+00:00"
+=======
+                "source": "https://github.com/phpDocumentor/TypeResolver/tree/1.9.0"
+            },
+            "time": "2024-11-03T20:11:34+00:00"
+>>>>>>> 83fa77939eca3119b5afe58311596bfd9846ada8
         },
         {
             "name": "phpstan/phpdoc-parser",

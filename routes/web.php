@@ -1,6 +1,10 @@
 <?php
+<<<<<<< HEAD
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\AccessController;
+=======
+
+>>>>>>> 83fa77939eca3119b5afe58311596bfd9846ada8
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -25,6 +29,7 @@ Route::get('/login', function () {
 });
 
 
+<<<<<<< HEAD
 // Admin dashboard route - protected by the CheckRole middleware for admin
 Route::get('/dashboardadmin', [DashboardController::class, 'adminDashboard'])
     ->middleware('auth', 'checkRole:admin') // Apply custom middleware
@@ -37,3 +42,5 @@ Route::get('/dashboarduser', [DashboardController::class, 'userDashboard'])
 
 // Access denied route
 Route::get('/access-denied', [AccessController::class, 'accessDenied'])->name('access.denied');
+=======
+>>>>>>> 83fa77939eca3119b5afe58311596bfd9846ada8

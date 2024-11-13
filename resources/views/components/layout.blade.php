@@ -321,17 +321,16 @@
     </nav>
     </header>
 
-<<<<<<< HEAD
    <main>
     @yield('content')
     </main>
-=======
+
 
     <main>
         @yield('content')
     </main>
 
->>>>>>> 83fa77939eca3119b5afe58311596bfd9846ada8
+
     <!-- Footer Section -->
     <footer>
         <p>&copy; 2024 My WebDev Portfolio. All Rights Reserved.</p>

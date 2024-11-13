@@ -25,6 +25,4 @@ Route::get('/login', function () {
 });
 
 
-//adshdsadasdk
-
 

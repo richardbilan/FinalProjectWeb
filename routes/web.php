@@ -1,7 +1,6 @@
 <?php
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\AccessController;
-
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -24,5 +23,8 @@ Route::get('/dashboard', function () {
 Route::get('/login', function () {
     return view('login');
 });
+
+
+//adshdsadasdk
 
 
